@@ -1,1 +1,1 @@
-# standards
+This repository is where all standards documents are stored. Final documents are published in the final branch, whereas documents at all working stages are in the drafts branch. Where applicable, this repository also includes formed JSON versions of the standards for ease of use.
