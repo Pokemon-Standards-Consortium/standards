@@ -10,4 +10,4 @@ Currently, we have three documents (all drafts) available:
 * PSC 003: Pok&eacute;paste like syntax for representing Pok&eacute;mon teams
 
 Feel free to contribute! For more information, read the files in the
-[docs/](docs/) directory.
+[meta/](meta/) directory.
