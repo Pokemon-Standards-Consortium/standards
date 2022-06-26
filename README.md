@@ -1,1 +1,9 @@
-This repository is where all standards documents are stored. Final documents are published in the `final` directory, whereas documents at all working stages are in the `drafts` folder. Where applicable, this repository also includes formed JSON versions of the standards for ease of use.
+# `standards`
+
+This repository is where all standards documents are stored.
+
+* Metadata about the documents is stored in the YAML metadata at the start of
+  each file. For example, draft documents have `status` set to `draft`.
+
+* For programmatic use, a GitHub action is used to convert the source documents
+  to a JSON representation of them.
